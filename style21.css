@@ -149,3 +149,8 @@ nav a:hover
     color: #91a8c5;
     font-size: 12px;
 }
+#clock
+{
+    color: white;
+    font-family: monospace;
+}
